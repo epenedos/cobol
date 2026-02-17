@@ -1,0 +1,5 @@
+[package]
+name = "report"
+version = "0.1.0"
+edition = "2021"
+description = "CSV to fixed-width text converter - Rust port of COBOL report.cbl"
