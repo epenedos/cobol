@@ -14,7 +14,7 @@ If an item is ambiguous or needs a decision, leave it unchecked, add a note unde
 and ask the user instead of guessing.
 
 ## Items
-- [ ] Refactor `report.cbl` to use a structured `PERFORM` loop instead of `GO TO`
+- [x] Refactor `report.cbl` to use a structured `PERFORM` loop instead of `GO TO`
 - [ ] Add a Go test (`report_test.go`) that runs the sample CSV and asserts the fixed-width output
 - [ ] Add a Rust test for the same sample-input/expected-output behavior
 - [ ] Update `README.md` to document the Rust port (currently only mentions COBOL and Go)
